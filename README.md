@@ -7,9 +7,9 @@ I have developed multiple NFT and blockchain projects encompassing a wide range 
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/1.png">
-
-sss
-
+I developed Moomoo, a cutting-edge trading platform that empowers investors with zero-commission trading and a suite of advanced tools to enhance their investment strategies.
+Leveraging modern web technologies and secure infrastructure, I implemented features such as real-time data streaming, interactive charting, and seamless integration with financial APIs to provide users with a comprehensive trading experience.
+The platform has the potential to expand by incorporating additional asset classes, enhancing mobile accessibility, and integrating AI-driven analytics to offer personalized investment recommendations.
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
@@ -32,7 +32,11 @@ Supra is poised for growth through the expansion of its ecosystem, increased ado
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/3.png">
-sss
+I developed TradeLocker, a next-generation trading platform that empowers traders with advanced charting, seamless order execution, and robust risk management tools.
+Leveraging the power of TradingView integration, I implemented real-time market analysis, customizable indicators, and intuitive order placement features. The platform supports trading across various asset classes, including forex, indices, metals, and cryptocurrencies. 
+TradeLocker has the potential to expand by incorporating AI-driven trading algorithms, enhancing mobile accessibility, and integrating with additional financial markets to provide a comprehensive trading ecosystem.
+
+
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
@@ -99,8 +103,9 @@ The platform has the potential to expand by integrating more complex AI models, 
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/11.png">
-
-sss
+I developed TradeZella, a cutting-edge trading journal and analytics platform that empowers traders to log, analyze, and improve their trading performance through automated journaling and comprehensive reporting.
+Utilizing modern web technologies and secure infrastructure, I implemented features such as broker integrations, real-time data processing, and intuitive user interfaces to provide traders with a seamless and efficient experience.
+The platform has the potential to expand by incorporating AI-driven analytics, enhancing mobile accessibility, and integrating with additional financial markets to offer a comprehensive trading ecosystem.
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
