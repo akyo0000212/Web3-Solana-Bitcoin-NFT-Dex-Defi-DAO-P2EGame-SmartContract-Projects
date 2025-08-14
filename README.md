@@ -23,8 +23,9 @@ sss
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/2.png">
-
-sss
+Supra is a fully vertically integrated Layer-1 blockchain offering native oracles, verifiable randomness (dVRF), automated DeFi (AutoFi), and bridgeless cross-chain communication—all designed for ultra-high performance and low latency. 
+Its core innovations include the Moonshot consensus for sub-second finality, Multi-VM support for smart contracts (EVM, Move, etc.), and a unified infrastructure stack that greatly simplifies dApp development. 
+Supra is also pushing the future of on-chain intelligence with Threshold AI Oracles—dynamic, verifiable AI-powered logic delivered directly to smart contracts for richer, trustless decision-making. 
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
@@ -55,8 +56,9 @@ sss
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/6.png">
-
-sss
+Atujii is a whimsical virtual pet mobile app by Atujii LLC, where quirky creatures called Atujiis accompany users and grow in fun, interactive ways—dancing, taking selfies, and performing daily antics in an augmented-reality style “Meta-Misbehavior.
+These digital pets evolve daily and respond to user interactions with surprising behaviors, while the app supports in-app purchases to unlock unique, limited-edition Atujiis. 
+It delights players with lighthearted humor and creative notifications—like farting or silly animations—bringing a playful, persistent companion to your phone. 
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
