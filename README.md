@@ -5,7 +5,7 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/sources/1.png">
+<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/1.png">
 
 This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or sources using Solana's fast and low-cost transactions.
 
