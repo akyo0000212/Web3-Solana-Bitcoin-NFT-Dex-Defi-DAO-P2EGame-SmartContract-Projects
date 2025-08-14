@@ -120,22 +120,29 @@ sss
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/15.png">
+I developed Mr. Mint's NFT Marketplace, a platform that bridges the gap between digital collectibles and cryptocurrency mining, offering users a unique Web3 experience.
+Utilizing blockchain technology, I implemented a system that allows users to mint and trade NFTs, each linked to real-world mining activities, ensuring a seamless and secure experience.
+The marketplace has the potential to expand by integrating additional blockchain features, enhancing user engagement through gamification, and fostering a vibrant community of digital asset enthusiasts.
 
-sss
+
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/16.png">
+I developed CryptoBlades, a decentralized RPG that integrates blockchain technology to offer players the opportunity to earn SKILL tokens through strategic gameplay and NFT ownership.
+Utilizing multiple blockchain platforms, I implemented a secure and scalable infrastructure that supports NFT minting, staking, and marketplace transactions, ensuring a seamless user experience.
+The platform has the potential to expand by incorporating additional gameplay modes, enhancing cross-chain compatibility, and fostering a vibrant community through guilds and alliances.
 
-sss
+
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/17.png">
-
-sss
+I developed Wooshi World, a dynamic metaverse platform where users can own, trade, and interact with unique Wooshi NFTs, each offering distinct traits and abilities.
+Leveraging Ethereum's blockchain, I implemented smart contracts to ensure secure ownership and transaction of Wooshi NFTs, integrating them seamlessly into the Wooshi World ecosystem.
+The platform has the potential to expand by incorporating additional gameplay features, enhancing user engagement through community events, and integrating with other metaverse platforms for broader interoperability.
 
 <h3><u><strong><i>Elementals-Lootboxes</i></strong></u> &nbsp;- Solana P2E Game</h3>
 <hr />
